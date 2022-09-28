@@ -5,7 +5,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="center" height="250" alt="coding-time" src="computer-retro.gif">
-    <img align="left" height="250" alt="matrix" src="">
+    
     
 <div align="center">
   <a href="https://github.com/Pabloabreu1277">
