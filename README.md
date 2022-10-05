@@ -8,10 +8,10 @@
     
     
 <div align="center">
-  <a href="https://github.com/Pabloabreu1277">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pabloabreu1277&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloabreu1277&theme=merko"/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Pabloabreu1277&row=1"/>
+  <a href="https://github.com/pabloabreu1277">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pabloabreu1277&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloabreu1277&theme=merko"/>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=pabloabreu1277&row=1"/>
 </div>
 
   <img align="center" alt="pablo-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
