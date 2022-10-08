@@ -19,7 +19,5 @@
   <img align="center" alt="pablo-excel" height="30" width="90" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="pablo-arduino" height="30" width="90" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img align="center" alt="pablo-rasp" height="30" width="90" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
-  
-  <!-- <p align="center"> 
-  <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloabreu1277&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
-</p> -->
+
+  ![](./profile-3d-contrib/profile-green-animate.svg)
