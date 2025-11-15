@@ -19,7 +19,7 @@
   <img align="center" alt="pablo-excel" height="30" width="90" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="pablo-arduino" height="30" width="90" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
   <img align="center" alt="pablo-rasp" height="30" width="90" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
-  <img align="center" alt="pablo-rasp" height="30" width="90" src="https://skillicons.dev/icons?i=all">
+  <img align="center" alt="pablo-rasp" height="30" width="90" src="https://devicon-website.vercel.app/api/matlab/original.svg">
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
