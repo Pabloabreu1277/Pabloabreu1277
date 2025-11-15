@@ -14,12 +14,12 @@
   
 </div>
 
-  <img align="center" alt="pablo-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="pablo-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="pablo-sqlite" height="90" width="90" src="https://devicon-website.vercel.app/api/sqlite/original-wordmark.svg">
   <img align="center" alt="pablo-rasp" height="80" width="80" src="https://devicon-website.vercel.app/api/matlab/original.svg">
-  <img align="center" alt="pablo-arduino" height="80" width="90" src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg">
-  <img align="center" alt="pablo-rasp" height="90" width="90" src="https://devicon-website.vercel.app/api/raspberrypi/original.svg">
-  <img align="center" alt="pablo-rasp" height="90" width="90" src="https://devicon-website.vercel.app/api/r/original.svg">
+  <img align="center" alt="pablo-arduino" height="80" width="80" src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg">
+  <img align="center" alt="pablo-rasp" height="80" width="80" src="https://devicon-website.vercel.app/api/raspberrypi/original.svg">
+  <img align="center" alt="pablo-rasp" height="80" width="80" src="https://devicon-website.vercel.app/api/r/original.svg">
   <img align="center" alt="pablo-excel" height="30" width="90" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 
 
