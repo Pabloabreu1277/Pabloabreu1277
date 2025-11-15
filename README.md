@@ -23,7 +23,7 @@
   <img align="center" alt="pablo-tensor" height="80" width="90" src="https://devicon-website.vercel.app/api/tensorflow/original.svg">
   <img align="center" alt="pablo-siemens" height="80" width="90" src="https://avatars.githubusercontent.com/u/624020?s=200&v=4">
   <img align="center" alt="pablo-rockwell" height="80" width="90" src="https://www.rockwellautomation.com/content/dam/rockwell-automation/sites/images/logos/2019_Logo_rgb_RA_Bug-LeftText_color.svg">
-  <img align="center" alt="pablo-elipse" height="80" width="80" src="https://www.elipse.com.br/">
+  <img align="center" alt="pablo-elipse" height="80" width="80" src="https://cdn.induportals-media-publishing.org/Press%20Files/02/56/19/25619-elipse-software_logo.jpg">
 
 
   <img align="center" alt="pablo-excel" height="30" width="90" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
